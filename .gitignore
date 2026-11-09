@@ -1,0 +1,9 @@
+# Liste fermée. Ajouter les nouveaux fichiers versionnés explicitement.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/scripts/
+/scripts/*
+!/scripts/produire_scenario_a.py
+!/scripts/controler_production_a.py
